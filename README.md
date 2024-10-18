@@ -4,8 +4,8 @@ A simple, responsive contact card web page for Hatem BEN ISMAÏL, President of J
 
 ### Deployment
 This page is deployed using Netlify.
+https://jcett-contact.netlify.app/
 
 ### Tech Used
 HTML & CSS
-Font Awesome
 Netlify
