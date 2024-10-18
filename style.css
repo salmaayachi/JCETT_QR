@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 350px;
+    text-align: center;
+}
+
+.card .logo {
+    width: 80px; 
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.card h1 {
+    font-size: 1.5em;
+    color: red; 
+}
+
+.card p {
+    color: #555;
+    line-height: 1.6;
+}
+
+.card a {
+    color: red;
+    text-decoration: none;
+    font-weight: lighter;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
+
+.card .line {
+    width: 50px;
+    height: 4px;
+    background-color: #555;
+    margin: 10px auto;
+    border-radius: 2px;
+}
+
+.card .social-icons {
+    margin-top: 20px;
+}
+
+.card .social-icons a {
+    font-size: 24px;
+    margin: 0 10px;
+    color: red;
+    text-decoration: none;
+}
+
+.card .social-icons a:hover {
+    color: #2c6daf; /* Slightly darker blue when hovering */
+}
+
+.card i {
+    margin-right: 8px;
+}
